@@ -15,8 +15,8 @@ I'll be ordering my solutions by Kyus (Codewars' way of determining a challenge'
 
 I currently only program in Python, although I'd like to pick up R (again) eventually. I've done some easy challenges in JavaScript but for the time being I'm sticking with Python until I become proficient at it.
 
-As of the time of writing I am ranked in the top 8.5th percentile of users on CodeWars and signed up in October of 2020, although I've just seriously started doing challenges regularly in January of 2021.
+As of the time of writing I am ranked in the top 7th percentile of users on CodeWars and signed up in October of 2020, although I've just seriously started doing challenges regularly in January of 2021.
 
 ### My current stats (Updated : 1/17/2021)
 
-![My Stats as of 1/17/2021](Stats01172021(2).png)
+![My Stats as of 1/17/2021](Stats01182021.png)
