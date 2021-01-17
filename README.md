@@ -1,5 +1,4 @@
-# CodeWars Coding Challenges
-![My CodeWars User Profile](https://www.codewars.com/users/Kronos1886/badges/large)
+# CodeWars Coding Challenges ![My CodeWars User Profile](https://www.codewars.com/users/Kronos1886/badges/large)
 
 I've added a repository which includes most solutions (in IPYNB format) for CodeWars Challenges I've been working on in my free time.
 
