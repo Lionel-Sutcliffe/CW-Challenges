@@ -1,4 +1,4 @@
-# CodeWars Coding Challenges ![My CodeWars User Profile](https://www.codewars.com/users/Kronos1886/badges/large)
+# CodeWars Coding Challenges
 
 I've added a repository which includes most solutions (in IPYNB format) for CodeWars Challenges I've been working on in my free time.
 
@@ -7,7 +7,8 @@ You can find a complete list of my solutions here:
   https://www.codewars.com/users/Kronos1886/completed_solutions
 
 This is my user profile on CodeWars.com:
-  
+
+![My CodeWars User Profile](https://www.codewars.com/users/Kronos1886/badges/large)  
   https://www.codewars.com/users/Kronos1886/stats
 
 I'll be ordering my solutions by Kyus (Codewars' way of determining a challenge's difficulty)
