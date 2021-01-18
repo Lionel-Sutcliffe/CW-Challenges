@@ -10,8 +10,6 @@ _Complete list of my solutions:_
 _Link to my user profile:_
 
   https://www.codewars.com/users/Kronos1886/stats
-  
-  ![My CodeWars User Profile](https://www.codewars.com/users/Kronos1886/badges/small)
 
 The solutions are sorted in order of decreasing difficulty, challenges get increasingly harder the lower the Kyu.
 
