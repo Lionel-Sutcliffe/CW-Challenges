@@ -3,11 +3,11 @@
 This is a repository which includes some solutions (in IPYNB format) for CodeWars Challenges I've been working on in my free time.
 The majority of challenges have been solved using Python.
 
-Complete list of my solutions:
+__Complete list of my solutions:__
   
   https://www.codewars.com/users/Kronos1886/completed_solutions
 
-Link to my user profile:
+__Link to my user profile:__
 
 ![My CodeWars User Profile](https://www.codewars.com/users/Kronos1886/badges/large)  
   https://www.codewars.com/users/Kronos1886/stats
