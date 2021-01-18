@@ -1,7 +1,7 @@
 # CodeWars Coding Challenges
 
 This is a repository which includes some solutions (in IPYNB format) for CodeWars Challenges I've been working on in my free time.
-The majority of challenges have been solved using Python.
+The majority of challenges have been solved in Python.
 
 __Complete list of my solutions:__
   
