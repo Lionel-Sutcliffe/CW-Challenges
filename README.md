@@ -18,4 +18,4 @@ As of the time of writing I am ranked in the 6th percentile of users on CodeWars
 
 ### My current stats (Updated : 1/17/2021)
 
-![My Stats as of 1/17/2021](Stats01182021.png)
+![My Stats as of 1/17/2021](Stats01182021(2).png)
