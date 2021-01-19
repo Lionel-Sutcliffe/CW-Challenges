@@ -13,7 +13,7 @@ _Link to my user profile:_
 
 The solutions are sorted in order of decreasing difficulty, challenges get increasingly harder the lower the Kyu.
 
-As of the time of writing I am ranked in the 6th percentile of users on CodeWars.
+As of the time of writing I am ranked in the 5th percentile of users on CodeWars.
 
 __My current stats (Updated : 1/18/2021)__
 
