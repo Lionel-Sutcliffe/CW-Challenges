@@ -1,6 +1,6 @@
 # CodeWars Challenges ![My CodeWars User Profile](https://www.codewars.com/users/Kronos1886/badges/micro) 
 
-This is a repository which includes some solutions (in IPYNB format) for CodeWars Challenges I've been working on in my free time.
+Here you'll find some of my solutions (in IPYNB format) for CodeWars Challenges I've been working on in my free time.
 The majority of challenges have been solved in Python.
 
 _Complete list of my solutions:_
