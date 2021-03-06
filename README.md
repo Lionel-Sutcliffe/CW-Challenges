@@ -15,6 +15,6 @@ The solutions are sorted in order of decreasing difficulty, challenges get incre
 
 As of the time of writing I am ranked in the 5th percentile of users on CodeWars.
 
-__My current stats (Updated : 1/18/2021)__
+__My current stats (Updated : 3/06/2021)__
 
 ![My Stats as of 3/06/2021](mystats.png)
